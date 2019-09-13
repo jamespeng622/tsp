@@ -1,0 +1,19 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "thesugarfreeproject-env-20190610005703-authRole",
+            "UnauthRoleArn": "arn:aws:iam::105803326265:role/thesugarfreeproject-env-20190610005703-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::105803326265:role/thesugarfreeproject-env-20190610005703-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "thesugarfreeproject-env-20190610005703-deployment",
+            "UnauthRoleName": "thesugarfreeproject-env-20190610005703-unauthRole",
+            "StackName": "thesugarfreeproject-env-20190610005703",
+            "StackId": "arn:aws:cloudformation:us-east-1:105803326265:stack/thesugarfreeproject-env-20190610005703/9bcdfa80-8ad7-11e9-a275-126f3d94de7e"
+        },
+        "categories": {
+            "auth": {
+                "cognito51365fb7": {}
+            }
+        }
+    }
+}
